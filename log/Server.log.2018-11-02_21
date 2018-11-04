@@ -1,0 +1,20 @@
+2018-11-02 21:01:58 INFO SERVER initialize [in /home/tech/pyora/app.py:19]
+2018-11-02 21:01:58 INFO SERVER initialize [in /home/tech/pyora/app.py:19]
+2018-11-02 21:02:37 ERROR (psycopg2.OperationalError) could not connect to server: Connection refused
+	Is the server running on host "192.168.1.41" and accepting
+	TCP/IP connections on port 5432?
+ [in /home/tech/pyora/db/dbpg.py:52]
+2018-11-02 21:03:02 ERROR (psycopg2.OperationalError) could not connect to server: Connection refused
+	Is the server running on host "192.168.1.41" and accepting
+	TCP/IP connections on port 5432?
+ [in /home/tech/pyora/db/dbpg.py:52]
+2018-11-02 21:03:02 ERROR (psycopg2.OperationalError) could not connect to server: Connection refused
+	Is the server running on host "192.168.1.41" and accepting
+	TCP/IP connections on port 5432?
+ [in /home/tech/pyora/db/dbpg.py:52]
+2018-11-02 21:03:03 ERROR (psycopg2.OperationalError) could not connect to server: Connection refused
+	Is the server running on host "192.168.1.41" and accepting
+	TCP/IP connections on port 5432?
+ [in /home/tech/pyora/db/dbpg.py:52]
+2018-11-02 21:35:41 INFO SERVER initialize [in /home/tech/pyora/app.py:19]
+2018-11-02 21:35:41 INFO SERVER initialize [in /home/tech/pyora/app.py:19]
