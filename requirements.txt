@@ -19,7 +19,7 @@ psycopg2-binary==2.7.5
 pycrypto==2.6.1
 PyJWT==1.6.4
 pylint==2.1.1
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.0
 six==1.11.0
 SQLAlchemy==1.2.12
