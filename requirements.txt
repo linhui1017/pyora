@@ -17,7 +17,7 @@ mccabe==0.6.1
 psycopg2==2.7.5
 psycopg2-binary==2.7.5
 pycrypto==2.6.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 pylint==2.1.1
 PyYAML==3.13
 requests==2.20.0
